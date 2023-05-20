@@ -1,1 +1,3 @@
-# .github
+# GOSBot
+
+Musikbot für deinen Server
